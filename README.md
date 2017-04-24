@@ -1,4 +1,5 @@
 # gs-rest-service-complete
+Note : Application is Build using Gradle , maven is not used.
 The project is a springboot project solving problems given in challenge about temperature , stocks and cars
 
 
